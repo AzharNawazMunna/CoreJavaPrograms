@@ -9,7 +9,10 @@ public class HelloWorld {
 		System.out.println("helloworld 3");
 		System.out.println("helloworld 4");
 		System.out.println("helloworld 5");
+
 		System.out.println("world");
+
+		System.out.println("hello");
 	}
 
 }
